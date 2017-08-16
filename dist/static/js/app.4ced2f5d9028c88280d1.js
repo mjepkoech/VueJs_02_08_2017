@@ -1,0 +1,2 @@
+webpackJsonp([1],[,function(e,a,t){"use strict";var r=t(0),u=t(3);r.a.use(u.a),a.a=new u.a({routes:[]})},function(e,a,t){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var r=t(0),u=t(1);new r.a({el:"#app",router:u.a})}],[2]);
+//# sourceMappingURL=app.4ced2f5d9028c88280d1.js.map
